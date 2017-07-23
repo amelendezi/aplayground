@@ -1,5 +1,3 @@
-# Photo Blog
+# Sample Angular App
 
-1. Clone the repository
-2. Run `npm install`
-3. Start the server `npm run serve`
+This is a sample application to use as an Angular playground.
